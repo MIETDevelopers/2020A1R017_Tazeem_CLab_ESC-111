@@ -10,7 +10,7 @@ int main(){
     printf("Enter the Second Number: \n");
     scanf("%f", &number2);
 
-    // Addition, Subtraction, Multiplication and Diviision - Using Switch Case
+    // Addition, Subtraction, Multiplication and Division - Using Switch Case
     switch(operator){
         case '+':
             result = number1 + number2;
